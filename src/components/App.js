@@ -23,14 +23,17 @@ class App extends Component {
     return (
       <div className='App'>
         <Form>
-          inline
+          Age Teller Application
           <h2>Input Your Birthday!</h2>
           <FormControl
+            className='control'
             type='date'
             onChange={event => this.setState({ newDate: event.target.value })}
           />
           {''}
-          <Button onClick={() => this.changeBirthday()}>Submit</Button>
+          <Button className='button' onClick={() => this.changeBirthday()}>
+            Submit
+          </Button>
           {this.state.showStats ? (
             <div className='fade age-stats'>
               <AgeStats date={this.state.birthday} />

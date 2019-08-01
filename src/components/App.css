@@ -26,3 +26,13 @@
     opacity: 100;
   }
 }
+
+.button {
+  margin: 3%;
+}
+
+.control {
+  width: 325px;
+  margin: 0 auto;
+  float: none;
+}
