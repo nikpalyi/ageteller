@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ageteller/static/css/main.903e920c.chunk.css",
+    "main.js": "/ageteller/static/js/main.e03de04b.chunk.js",
+    "main.js.map": "/ageteller/static/js/main.e03de04b.chunk.js.map",
+    "runtime~main.js": "/ageteller/static/js/runtime~main.fed48c24.js",
+    "runtime~main.js.map": "/ageteller/static/js/runtime~main.fed48c24.js.map",
+    "static/js/2.8252c42e.chunk.js": "/ageteller/static/js/2.8252c42e.chunk.js",
+    "static/js/2.8252c42e.chunk.js.map": "/ageteller/static/js/2.8252c42e.chunk.js.map",
+    "index.html": "/ageteller/index.html",
+    "precache-manifest.9600744626463d2612a68f7c4e78c6a4.js": "/ageteller/precache-manifest.9600744626463d2612a68f7c4e78c6a4.js",
+    "service-worker.js": "/ageteller/service-worker.js",
+    "static/css/main.903e920c.chunk.css.map": "/ageteller/static/css/main.903e920c.chunk.css.map",
+    "static/media/partyPopper.jpg": "/ageteller/static/media/partyPopper.d085efb4.jpg"
+  }
+}
