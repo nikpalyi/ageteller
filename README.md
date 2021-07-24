@@ -9,5 +9,7 @@ In the project directory, you can run:
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-![alt text](https://github.com/nikpalyi/ageteller/src/assets/master/partyPopper.jpg?raw=true)
+
+![Alt text](src/assets/partyPopper.jpg?raw=true "old pineapple")
+
 
